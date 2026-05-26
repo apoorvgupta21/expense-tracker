@@ -2,7 +2,7 @@
 
 Build a simple expense tracker application to manage your finances.
 
-Project URL:
+## Project URL:
 https://roadmap.sh/projects/expense-tracker
 
 ## Project Structure
